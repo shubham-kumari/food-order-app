@@ -4,7 +4,7 @@ import Button from "./UI/Button";
 import CartContext from "../store/CartContext";
 
 export default function MealItem({meal}){
-    const {items, addItem} = useContext(CartContext)
+    const {addItem} = useContext(CartContext)
     function handleAddMealToCart(){
         addItem(meal)
     }
