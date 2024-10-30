@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "quantity": 2
+      }
+    ],
+    "customer": {
+      "name": "SHUBHAM KUMARI",
+      "email": "KUMARISHUBHAM273@GMAIL.COM",
+      "street": "TAREGANA GOLA ROAD, MASAURHI",
+      "postal-code": "804452",
+      "city": "PATNA"
+    },
+    "id": "302.22735211620466"
+  }
+]
